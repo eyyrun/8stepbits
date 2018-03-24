@@ -1,0 +1,1 @@
+waveformGenerator.o: ../waveformGenerator.c
